@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" width="2000px" height="100px" style="direction: rtl;">
-  <g id="testmeta">
-    <title>CSS-Writing Modes Test: Principal Writing Mode</title>
-    <html:link rel="author" title="Ting-Yu Lin" href="tlin@mozilla.com"/>
-    <html:link rel="author" title="Mozilla" href="https://mozilla.org/"/>
-    <html:link rel="help" href="https://drafts.csswg.org/css-writing-modes-3/#principal-flow"/>
-    <html:link rel="mismatch" href="../reference/blank.html"/>
-    <decs class="assert">This test verifies setting "direction:rtl" on the svg root
-    with a large width can generate a horizontal scroll bar.</decs>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" width="2000" height="100" style="direction:rtl"><g id="testmeta"><title>CSS-Writing Modes Test: Principal Writing Mode</title><html:link href="tlin@mozilla.com" rel="author" title="Ting-Yu Lin"/><html:link href="https://mozilla.org/" rel="author" title="Mozilla"/><html:link href="https://drafts.csswg.org/css-writing-modes-3/#principal-flow" rel="help"/><html:link href="../reference/blank.html" rel="mismatch"/><decs class="assert">This test verifies setting &quot;direction:rtl&quot; on the svg root with a large width can generate a horizontal scroll bar.</decs></g></svg>
